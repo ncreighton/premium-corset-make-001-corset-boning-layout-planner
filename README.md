@@ -1,0 +1,2 @@
+# premium-corset-make-001-corset-boning-layout-planner
+Tired of guessing where each bone should go, only to end up with a twisted or unsupportive corset? The Corset Boning Layout Planner replaces chaotic sketches and mental math with a clear, dynamic Notion workspace that maps every bone to your pattern.  This template eliminates the guesswork and rework in boning layout. It provides a structured frame
